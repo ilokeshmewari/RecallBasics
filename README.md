@@ -1,5 +1,12 @@
-##Lokesh Singh Mewari Portfolio
-This is my personal portfolio to showcase my skills, projects, education, and work experience. I built it using HTML, CSS, and Lottie for animations.
+# Internship Task Repository
 
-##What I Learned
-In this project, I revisited the basics of HTML and CSS, refreshing my understanding of fundamental concepts such as structuring a webpage, styling elements, and creating responsive layouts. I also explored animations using Lottie and learned how to design visually appealing, user-friendly sections with modern CSS techniques.# RecallBasics
+This repository is created for my **internship task sharing purpose**. Here, I will upload all the tasks I perform during my internship.
+
+## Structure
+- Each task will be organized in separate folders/files for clarity.
+- Tasks will cover various aspects of development as assigned during the internship.
+
+## Purpose
+This repository serves as a centralized place to document and track my progress throughout the internship.
+
+---
